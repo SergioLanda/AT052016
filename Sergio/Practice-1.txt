@@ -1,0 +1,2 @@
+Inline -> short comment and/or trivial.
+Multiline -> extends comment and relevant.
