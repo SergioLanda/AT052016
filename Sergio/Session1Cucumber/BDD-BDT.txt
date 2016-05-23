@@ -1,0 +1,40 @@
+When and why BDD was defined
+
+en un evento llamado Agile specifications, BDD and Testing eXchange, Dan North 2009, como una idea de como el desarrollo de software debe ser gestionado por intereses comerciales y conocimientos tecnicos.
+
+The most important aspects of BDD
+
+metodología ágil de segunda generación, de afuera hacia adentro, basada en demanda, de multiples interesados, multiple escala y alta automatización. 
+
+Why is useful and when could be applied
+
+por el uso de múltiples niveles de ejemplos para crear un entendimiento compartido y sacar a flote la incertidumbre para entregar software.
+
+which type of teams could implement BDD
+
+Developers, testers.
+
+Structure of a feature - Give an example
+
+Buscar un cliente
+
+Structure of a user story - Give an example
+
+# Buscar cliente
+
+como usuario necesito encontrar clientes tanto por su razon social como por el nombre del cliente.
+
+Structure of a scenario - Give an example
+
+# Buscar cliente
+
+como usuario necesito encontrar clientes tanto por su razon social como por el nombre del cliente.
+
+ingresar nombre del cliente
+revisar resultados
+ingresar razon social
+revisar resultados
+
+Differences between BDD and BDT
+
+BDT viene despues de BDD que es un proceso de desarrollo basado en el desarrollo guiado por pruebas y BDD combina principales normas de desarrollo basado en pruebas e ideas de diseño de dominio impulsada y análisis orientado a objetos para proporcionar a los desarrolladores de software y analistas de negocios con herramientas comunes y un proceso compartido para colaborar en el desarrollo de software.
